@@ -1,7 +1,7 @@
 # git-command
 
 
-### Commond.md
+### Command.md
 > This file contain most common used or neccesary commands in day to day life.
 > This commands test and pass successfully.
 
